@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "819268440561",
+    "project_id": "tobetch-flutter-playground",
+    "storage_bucket": "tobetch-flutter-playground.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819268440561:android:d902fb7c596690b8383450",
+        "android_client_info": {
+          "package_name": "com.tobetch.flutter_playground"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819268440561-eoa1u5eqo731imrek2arso5765lg49ck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC58UW0b-NLx9KBhK2aE5lE5g5ioOcVnDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819268440561-eoa1u5eqo731imrek2arso5765lg49ck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
